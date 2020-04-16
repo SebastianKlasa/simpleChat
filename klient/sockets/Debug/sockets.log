@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sebastiann\desktop\czaaat\klient\sockets\main.cpp(52): warning C4101: 'buff': unreferenced local variable
+  sockets.vcxproj -> C:\Users\Sebastiann\Desktop\czaaat\klient\Debug\sockets.exe
+  sockets.vcxproj -> C:\Users\Sebastiann\Desktop\czaaat\klient\Debug\sockets.pdb (Partial PDB)

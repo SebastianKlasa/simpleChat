@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\sebastiann\desktop\czaaat\serwer\sockets\main.cpp(22): warning C4101: 'bytesSent': unreferenced local variable
+c:\users\sebastiann\desktop\czaaat\serwer\sockets\main.cpp(30): warning C4101: 'bytesSent': unreferenced local variable
+  sockets.vcxproj -> C:\Users\Sebastiann\Desktop\czaaat\serwer\Debug\sockets.exe
+  sockets.vcxproj -> C:\Users\Sebastiann\Desktop\czaaat\serwer\Debug\sockets.pdb (Partial PDB)
